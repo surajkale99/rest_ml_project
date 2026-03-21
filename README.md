@@ -103,25 +103,25 @@ The dataset contains restaurant reviews with sentiment labels.
 * Evaluation metrics used here are accuracy, precision and recall.
 
 
-# Using Multinomial Naive Bayes,
-# Accuracy is  79.86 %
-# Precision is  0.8
-# Recall is  0.85
+* Using Multinomial Naive Bayes,
+* Accuracy is  79.86 %
+* Precision is  0.8
+* Recall is  0.85
 
 
-# Using Bernoulli Naive Bayes,
-# Accuracy is  77.7 %
-# Precision is  0.77
-# Recall is  0.87
+* Using Bernoulli Naive Bayes,
+* Accuracy is  77.7 %
+* Precision is  0.77
+* Recall is  0.87
 
 
-# Using Logistic Regression,
-# Accuracy is  81.29 %
-# Precision is  0.84
-# Recall is  0.82
+* Using Logistic Regression,
+* Accuracy is  81.29 %
+* Precision is  0.84
+* Recall is  0.82
 
 
-# From the above results, Logistic Regression is slightly better than Multinomial Naive Bayes
+* From the above results, Logistic Regression is slightly better than Multinomial Naive Bayes
 
 ---
 
