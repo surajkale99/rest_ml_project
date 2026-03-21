@@ -96,11 +96,11 @@ The dataset contains restaurant reviews with sentiment labels.
 
 ## 🏆 Results
 
-# In this study, an attempt has been made to classify sentiment analysis for restaurant reviews 
-# using machine learning techniques. Two algorithms namely Multinomial Naive Bayes and 
-# Bernoulli Naive Bayes are implemented.
+* In this study, an attempt has been made to classify sentiment analysis for restaurant reviews 
+* using machine learning techniques. Two algorithms namely Multinomial Naive Bayes and 
+* Bernoulli Naive Bayes are implemented.
 
-# Evaluation metrics used here are accuracy, precision and recall.
+* Evaluation metrics used here are accuracy, precision and recall.
 
 
 # Using Multinomial Naive Bayes,
