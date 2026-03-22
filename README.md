@@ -129,7 +129,7 @@ The dataset contains restaurant reviews with sentiment labels.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/restaurant-sentiment-analysis.git
+git clone https://github.com/surajkale99/rest_ml_project.git
 
 # Navigate to project folder
 cd restaurant-sentiment-analysis
